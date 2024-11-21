@@ -326,6 +326,7 @@ section.topo-do-site .flex {
 }
 
 .img-topo-site img {
+    width: 500px;
     border-radius: 10px;
 }
 
@@ -377,6 +378,7 @@ section.sobre {
 }
 
 .sobre .img-sobre img {
+    width: 500px;
     border-radius: 10px;
     /* -webkit-box-shadow: -1px 7px 84px -3px rgba(0, 119, 255, 0.78);
     -moz-box-shadow: -1px 7px 84px -3px rgba(0, 119, 255, 0.78);
